@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+datasets/
+runs/
+yolo11n.pt
+*.onnx
+*.pt
+*.avi
+videos/

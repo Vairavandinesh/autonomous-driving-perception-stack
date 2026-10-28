@@ -1,0 +1,9 @@
+class_name,object_count
+car,23026
+van,2359
+truck,871
+pedestrian,3566
+person_sitting,186
+cyclist,1275
+tram,394
+misc,765

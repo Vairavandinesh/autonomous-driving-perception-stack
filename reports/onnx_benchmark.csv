@@ -1,0 +1,2 @@
+model,device,average_latency_ms,approx_fps
+YOLO KITTI ONNX,CPU,33.85,29.54

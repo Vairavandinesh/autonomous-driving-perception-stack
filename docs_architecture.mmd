@@ -1,0 +1,10 @@
+flowchart TD
+    A[Driving Image or Video] --> B[YOLO Object Detection]
+    B --> C[ByteTrack Object Tracking]
+    A --> D[OpenCV Lane Detection]
+    A --> E[MiDaS Relative Depth Estimation]
+    B --> F[ONNX Model Export]
+    F --> G[CPU Inference Benchmark]
+    C --> H[Perception Outputs]
+    D --> H
+    E --> H
