@@ -7,3 +7,5 @@ yolo11n.pt
 *.pt
 *.avi
 videos/
+
+wandb/
